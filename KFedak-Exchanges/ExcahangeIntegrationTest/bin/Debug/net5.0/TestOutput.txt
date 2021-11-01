@@ -1,0 +1,5 @@
+5 	 EUR 	 => 4.30 USD
+5 	 GBP 	 => 3.65 USD
+100 	 JPY 	 => 11375.00 USD
+230 	 AUD 	 => 305.90 USD
+10 	 CAD 	 => 12.50 USD

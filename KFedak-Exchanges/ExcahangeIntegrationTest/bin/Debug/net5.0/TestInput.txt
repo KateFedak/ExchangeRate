@@ -1,0 +1,5 @@
+5        | EUR
+5        | GBP
+100      | JPY
+230      | AUD 
+10       | CAD 
